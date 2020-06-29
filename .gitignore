@@ -1,0 +1,13 @@
+### Intellij ###
+.idea_modules/
+.idea/
+out/
+*.iml
+*.ipr
+
+### VirtualEnv ###
+# Virtualenv
+.Python
+pyvenv.cfg
+.venv
+pip-selfcheck.json
